@@ -1,6 +1,7 @@
 # Pw
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+The project an be accessed publicly through the folloing URL: https://vercel.com/chrissamharris/passwordgenerator-5wrqv96db/chrissamharris
 
 ## Development server
 
